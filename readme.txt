@@ -1,0 +1,1 @@
+This is a prototype of simple chat for 2 persons per server (per chat) with end-to-end encryption.
